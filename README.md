@@ -18,34 +18,6 @@ The dataset is **balanced**, **stratified**, and split into **70% train**, **15%
 
 ---
 
-## 📂 Repository Structure
-├── data/
-│ └── (dataset paths used in notebook – not included in repo)
-│
-├── models/
-│ ├── cnn.py
-│ ├── vit.py
-│ └── svm.py
-│
-├── utils/
-│ ├── dataset_loader.py
-│ ├── feature_extractor.py
-│ └── visualization.py
-│
-├── notebooks/
-│ └── pneumonia_detection.ipynb
-│
-├── results/
-│ ├── confusion_matrix_cnn.png
-│ ├── confusion_matrix_svm.png
-│ ├── confusion_matrix_vit.png
-│ └── training_curves.png
-│
-└── README.md
-
-
----
-
 ## 📊 Dataset
 
 The dataset used in this project is the **Chest X-Ray Pneumonia Dataset** from Kaggle:
@@ -62,6 +34,7 @@ We therefore:
 3. Created a **stratified 70/15/15 split**  
 
 ---
+## Full information can be found in attached report
 
 ## 🛠 Installation
 
