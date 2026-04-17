@@ -5,7 +5,7 @@ The goal of the project is to compare traditional machine learning and modern de
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Pneumonia is a major cause of respiratory illness, and early detection is crucial for effective clinical diagnosis.  
 This project explores three different classification approaches:
@@ -18,11 +18,11 @@ The dataset is **balanced**, **stratified**, and split into **70% train**, **15%
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset used in this project is the **Chest X-Ray Pneumonia Dataset** from Kaggle:
 
-🔗 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ### Dataset Processing
 
@@ -36,7 +36,7 @@ We therefore:
 ---
 ## Full information can be found in attached report
 
-## 🛠 Installation
+## Installation
 
 ### 1. Clone the repository
 
